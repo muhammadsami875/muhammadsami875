@@ -1,108 +1,103 @@
-# Hi, I'm Muhammad Sami 👋
+<div align="center">
 
-### Full-Stack Developer | Next.js & Laravel | SEO
+# Muhammad Sami
 
-I'm a **BSCS student at Lahore Garrison University** and a Full-Stack Developer focused on building modern, scalable web applications and business websites.
+**Full-Stack Developer** · Next.js & Laravel · SEO
 
-Currently, I'm working with **The Local Rankers** as a **Full-Stack Developer**, working with Next.js on both frontend and backend development, while also building SEO-focused business websites.
+Building fast, search-optimized websites and web apps for real businesses.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-sami-148837300)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdxami78@gmail.com)
 
-## 🚀 What I Do
-
-* 💻 **Full-Stack Web Development**
-* ⚡ **Next.js Frontend & Backend**
-* 🔧 **Laravel & PHP Backend Development**
-* 🌐 **Business Website Development**
-* 📈 **SEO & Local SEO**
-* 🔌 **REST APIs & Integrations**
-* 🔐 **Authentication & Secure Web Applications**
-* ☁️ **AWS & Cloud Deployment**
-* 🤖 **AI & API Integrations**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-**Languages & Frameworks**
+Full-Stack Developer at **[The Local Rankers](https://thelocalrankers.com)**, where I build business websites and web applications end to end with Next.js — frontend, backend APIs, integrations, performance, and the technical SEO that makes them rank.
 
-`JavaScript` `TypeScript` `PHP` `Python`
-`Next.js` `React` `Laravel` `Tailwind CSS`
-
-**Backend & Database**
-
-`Node.js` `REST APIs` `MySQL` `PostgreSQL` `Prisma`
-
-**Authentication & APIs**
-
-`JWT` `Laravel Passport` `Auth.js` `OpenAI APIs`
-
-**Cloud & Tools**
-
-`AWS` `Vercel` `Git` `GitHub` `Postman`
-
-**SEO**
-
-`Technical SEO` `On-Page SEO` `Local SEO`
-`Google Business Profile` `Core Web Vitals` `SEO-Friendly Websites`
+BSCS student at Lahore Garrison University. Currently going deeper on scalable backend architecture, system design, and AI-powered applications.
 
 ---
 
-## 💼 Currently Working At
+## Tech Stack
 
-### The Local Rankers
+**Frontend**
 
-**Full-Stack Developer**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-Currently working on modern business websites and web applications using **Next.js**, including frontend and backend development, API integrations, performance optimization, and SEO.
+**Backend & Data**
 
----
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-## 📌 What I Build
+**Auth, APIs & Cloud**
 
-### 🌐 Business Websites
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=flat-square&logo=auth0&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-I build modern, responsive, SEO-friendly websites for businesses with a focus on:
-
-* Performance
-* Lead generation
-* Local SEO
-* Mobile responsiveness
-* Clean UI/UX
-* Search engine visibility
-
-### 🚀 Web Applications
-
-I develop full-stack applications with **Next.js**, including backend APIs, authentication, databases, integrations, and scalable application architecture.
-
-### 📈 SEO-Optimized Websites
-
-I work on technical and on-page SEO to help business websites improve their search visibility and generate more organic traffic.
-
----
-
-## 📚 Currently Learning
-
-* Advanced Next.js & backend architecture
-* Scalable SaaS architecture
-* Advanced Laravel
-* System Design
-* AI-powered applications
-* Cloud infrastructure
-* Advanced SEO
+**SEO** — Technical SEO · On-Page SEO · Local SEO · Google Business Profile · Core Web Vitals
 
 ---
 
-## 🎯 My Goal
+## Selected Work
 
-To become a strong **Full-Stack & Backend Engineer** capable of building scalable web applications, business platforms, SaaS products, and AI-powered solutions.
+Most of my production work lives in private client repositories. Here's what I've shipped:
 
-I enjoy taking an idea from **"Let's build this"** to a real, working product. 🚀
+| Project | What it is | Stack |
+|---|---|---|
+| [Highlight2Text](https://github.com/muhammadsami875/Highlight2Text) | Browser tool that extracts highlighted text from a page | JavaScript |
+| Local service business sites (25+) | Lead-gen sites for foundation repair, plumbing, junk removal, home care and similar trades — built for Core Web Vitals and local search | Next.js, TypeScript, Tailwind |
+| Chatrivox | AI-powered booking assistant | Next.js, TypeScript, OpenAI API |
+| Client web applications | Auth, dashboards, REST APIs, third-party integrations | Next.js, Laravel, MySQL/PostgreSQL |
+
+> Live links and case studies on my [portfolio](https://your-portfolio-url.com).
 
 ---
 
-## 📫 Let's Connect
+## Available For
 
-* 💼 **LinkedIn:** [Muhammad Sami](https://linkedin.com/in/muhammad-sami-148837300)
-* 🌐 **Portfolio:** [My Portfolio](https://my-portfolio-theta-indol-22.vercel.app/)
-* 💻 **GitHub:** [muhammadsami875](https://github.com/muhammadsami875)
+I take on freelance and contract work alongside my role at The Local Rankers:
+
+- **Business websites** — fast, responsive, built to convert and rank locally
+- **Next.js applications** — full-stack builds with auth, APIs, and databases
+- **Laravel / PHP backends** — REST APIs, integrations, and existing-codebase work
+- **SEO fixes** — technical audits, Core Web Vitals, on-page and local SEO
+
+📩 **[mdxami78@gmail.com](mailto:mdxami78@gmail.com)** — tell me what you're building.
+
+---
+
+## GitHub
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=muhammadsami875&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Streak](https://streak-stats.demolab.com?user=muhammadsami875&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsami875&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+<div align="center">
+
+*Taking ideas from "let's build this" to a working product.*
+
+</div>
