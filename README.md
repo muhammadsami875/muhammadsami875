@@ -1,61 +1,103 @@
 # Hi, I'm Muhammad Sami 👋
 
-### Full-Stack Developer | Laravel & PHP Backend Developer | AI Integrations
+### Full-Stack Developer | Next.js & Laravel | SEO
 
-I'm a **BSCS student at Lahore Garrison University** and a developer focused on building scalable web applications, backend systems, SaaS products, and AI-powered solutions.
+I'm a **BSCS student at Lahore Garrison University** and a Full-Stack Developer focused on building modern, scalable web applications and business websites.
 
-I enjoy turning ideas into **real-world products** — from APIs and authentication systems to SaaS platforms and AI chatbots.
-
----
-
-## 🚀 What I'm Working With
-
-* 🔹 **Backend:** PHP, Laravel, REST APIs
-* 🔹 **Frontend:** React, Next.js, JavaScript, Tailwind CSS
-* 🔹 **Databases:** MySQL, PostgreSQL, Prisma
-* 🔹 **Cloud & Deployment:** AWS, Vercel
-* 🔹 **Authentication:** JWT, Laravel Passport, Auth.js
-* 🔹 **AI:** OpenAI APIs, AI Chatbots & Voice AI integrations
-* 🔹 **Tools:** Git, GitHub, Postman
+Currently, I'm working with **The Local Rankers** as a **Full-Stack Developer**, working with Next.js on both frontend and backend development, while also building SEO-focused business websites.
 
 ---
 
-## 💻 Featured Projects
+## 🚀 What I Do
 
-### 🤖 Chatrivox
+* 💻 **Full-Stack Web Development**
+* ⚡ **Next.js Frontend & Backend**
+* 🔧 **Laravel & PHP Backend Development**
+* 🌐 **Business Website Development**
+* 📈 **SEO & Local SEO**
+* 🔌 **REST APIs & Integrations**
+* 🔐 **Authentication & Secure Web Applications**
+* ☁️ **AWS & Cloud Deployment**
+* 🤖 **AI & API Integrations**
 
-AI-powered chatbot SaaS designed for businesses to automate customer conversations, answer service-related questions, capture leads, and support bookings.
+---
 
-### 📝 Formixo
+## 🛠️ Tech Stack
 
-A SaaS platform for collecting and managing form submissions from websites, designed for businesses and developers working with static websites.
+**Languages & Frameworks**
 
-### 🌱 Green Life Nurseries
+`JavaScript` `TypeScript` `PHP` `Python`
+`Next.js` `React` `Laravel` `Tailwind CSS`
 
-A modern web platform for a plant and landscaping business, built with a focus on performance, SEO, and user experience.
+**Backend & Database**
 
-### 🚛 Take Your Junk UAE
+`Node.js` `REST APIs` `MySQL` `PostgreSQL` `Prisma`
 
-A junk-removal business website built with modern web technologies and optimized for local SEO and lead generation.
+**Authentication & APIs**
+
+`JWT` `Laravel Passport` `Auth.js` `OpenAI APIs`
+
+**Cloud & Tools**
+
+`AWS` `Vercel` `Git` `GitHub` `Postman`
+
+**SEO**
+
+`Technical SEO` `On-Page SEO` `Local SEO`
+`Google Business Profile` `Core Web Vitals` `SEO-Friendly Websites`
+
+---
+
+## 💼 Currently Working At
+
+### The Local Rankers
+
+**Full-Stack Developer**
+
+Currently working on modern business websites and web applications using **Next.js**, including frontend and backend development, API integrations, performance optimization, and SEO.
+
+---
+
+## 📌 What I Build
+
+### 🌐 Business Websites
+
+I build modern, responsive, SEO-friendly websites for businesses with a focus on:
+
+* Performance
+* Lead generation
+* Local SEO
+* Mobile responsiveness
+* Clean UI/UX
+* Search engine visibility
+
+### 🚀 Web Applications
+
+I develop full-stack applications with **Next.js**, including backend APIs, authentication, databases, integrations, and scalable application architecture.
+
+### 📈 SEO-Optimized Websites
+
+I work on technical and on-page SEO to help business websites improve their search visibility and generate more organic traffic.
 
 ---
 
 ## 📚 Currently Learning
 
-* Advanced Laravel & backend architecture
-* Microservices
-* AI-powered applications
-* Cloud infrastructure & AWS
-* System design
+* Advanced Next.js & backend architecture
 * Scalable SaaS architecture
+* Advanced Laravel
+* System Design
+* AI-powered applications
+* Cloud infrastructure
+* Advanced SEO
 
 ---
 
 ## 🎯 My Goal
 
-To become a strong **backend engineer** capable of designing reliable APIs, scalable architectures, and AI-powered products.
+To become a strong **Full-Stack & Backend Engineer** capable of building scalable web applications, business platforms, SaaS products, and AI-powered solutions.
 
-I’m always interested in **building, learning, and collaborating on interesting projects.**
+I enjoy taking an idea from **"Let's build this"** to a real, working product. 🚀
 
 ---
 
@@ -64,9 +106,3 @@ I’m always interested in **building, learning, and collaborating on interestin
 * 💼 **LinkedIn:** [Muhammad Sami](https://linkedin.com/in/muhammad-sami-148837300)
 * 🌐 **Portfolio:** [My Portfolio](https://my-portfolio-theta-indol-22.vercel.app/)
 * 💻 **GitHub:** [muhammadsami875](https://github.com/muhammadsami875)
-
----
-
-### ⚡ Fun Fact
-
-I enjoy taking an idea from **"What if we build this?"** to an actual working product. 🚀
